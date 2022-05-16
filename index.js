@@ -7,3 +7,5 @@ console.log(x + y);
 let z = x 
 
 console.log(z + y);
+
+let a = '5';
